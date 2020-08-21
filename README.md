@@ -8,4 +8,4 @@ Most of the services that do this are either a) free and limited or b) paid and 
 
 Feel free to fork and/or reach out with thoughts you have.
 
-I will have to host it on my AWS server, which also has my instapaper auto-sorter, set with a cronjob to run every hour. I get the feeling that eventually I am going to have a lot of these kinds of services on there. 
+I will have to host it on my AWS server, which also has my instapaper auto-sorter, set with a cronjob to run every hour. I get the feeling that eventually I am going to have a lot of these kinds of services on there.
